@@ -106,9 +106,6 @@ npm run dev
 ```
 
 ## Demo 🎮
-
-- Frontend Preview:
-![Alt text](https://github.com/pranavranjithkannan/CDS087/blob/bbccb45f01294b2048c702cbf9f32e4508de664d/demo%20image/demo.png "Main Page")
 - ⚠️ Note: This is a prototype frontend demo only. Backend functionality requires local setup with your API keys.
 
 ## Contributing 🤝
@@ -122,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 📬
 
 - Project Link: [https://github.com/yourusername/lawease](https://github.com/yourusername/lawease)
-- Demo Link: [https://law-ease.vercel.app/](https://law-ease.vercel.app/)
+- Demo Link: [https://law-ease.vercel.app/](https://lawease.me/)
 
 ---
 
