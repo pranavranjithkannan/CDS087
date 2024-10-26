@@ -118,8 +118,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📬
 
-- Project Link: [https://github.com/yourusername/lawease](https://github.com/yourusername/lawease)
-- Demo Link: [https://law-ease.vercel.app/](https://lawease.me/)
+- Project Link: [https://github.com/pranavranjithkannan/CDS087](https://github.com/pranavranjithkannan/CDS087)
+- Demo Link: [https://lawease.me/](https://lawease.me/)
 
 ---
 
