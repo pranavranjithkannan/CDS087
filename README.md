@@ -11,7 +11,7 @@
 
 LawEase is an intelligent legal assistant (lawbot) designed specifically for Indian law queries. It provides quick, reliable assistance with various law-related topics, making legal information more accessible to everyone.
 
-## Project Architecture 🏗️
+## Preview 👀
 
 ![LawEase Architecture](https://github.com/pranavranjithkannan/CDS087/blob/bbccb45f01294b2048c702cbf9f32e4508de664d/demo%20image/demo.png)
 
