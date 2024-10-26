@@ -67,8 +67,8 @@ flowchart TD
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/lawease.git
-cd lawease
+git clone https://github.com/yourusername/CDS087.git
+cd CDS087
 ```
 
 2. Install dependencies:
